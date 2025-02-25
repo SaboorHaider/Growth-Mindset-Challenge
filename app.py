@@ -121,4 +121,4 @@ if uploaded_file:
 st.success("All files processed!")
 
 st.markdown("---")
-st.markdown("Created with ❤️ by savvySaboor")
+st.markdown("Created by Saboor haider ❤️")
