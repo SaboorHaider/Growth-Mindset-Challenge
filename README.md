@@ -7,7 +7,6 @@ A web-based file converter and data cleaner built with Streamlit. Upload CSV, Ex
 ## Features
 
 - **File Upload:** CSV, Excel, Word, and PDF support.
-- **Data Preview:** View initial rows (except Word files).
 - **Data Cleaning:** Remove duplicates, fill missing values.
 - **Column Selection:** Pick columns for conversion.
 - **Format Conversion:** Convert to CSV, Excel, Word, or PDF.
